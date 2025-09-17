@@ -1,0 +1,5 @@
+﻿生成开始于 16:53...
+1>------ 已启动生成: 项目: ConsoleApp4, 配置: Debug Any CPU ------
+1>  ConsoleApp4 -> D:\校练项目\Daily-Practice-Items\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 16:54 完成，耗时 01.831 秒 ==========
